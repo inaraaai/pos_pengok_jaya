@@ -23,8 +23,6 @@ Aplikasi Point of Sale berbasis web untuk toko kelontong, dibangun dengan Larave
 - Laporan Penjualan, Pengeluaran, dan Laba Rugi
 - Dashboard statistik (penjualan hari ini, grafik 7 hari, produk terlaris, notifikasi stok kritis)
 
-Tidak ada fitur supplier — sesuai permintaan, fitur restok/supplier dihapus total dari sistem ini.
-
 ---
 
 ## Cara Instalasi (Local — XAMPP / Laragon / Native PHP)
